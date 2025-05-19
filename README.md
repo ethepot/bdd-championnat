@@ -45,3 +45,4 @@ Ce projet consiste à concevoir et implémenter une base de données relationnel
 ## 👤 Auteur
 
 - Ewen Thépot
+- Ywan Gerard
